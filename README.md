@@ -1,1 +1,1 @@
-# moviesDataMining
+# moviesExploratoryAnalysis
